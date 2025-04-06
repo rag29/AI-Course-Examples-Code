@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regression", "Regression\Regression.csproj", "{3F42AA0A-F13A-4500-9581-EA26C3586368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F42AA0A-F13A-4500-9581-EA26C3586368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F42AA0A-F13A-4500-9581-EA26C3586368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F42AA0A-F13A-4500-9581-EA26C3586368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F42AA0A-F13A-4500-9581-EA26C3586368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
